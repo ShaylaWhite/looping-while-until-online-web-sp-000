@@ -3,6 +3,7 @@ def using_while
 	
  while counter > 10
   puts "Wingarddium Leviosa"
+    
 end
 
 
